@@ -1,0 +1,7 @@
+smart_proxy
+=================
+
+Wrapper for Curl to perform queries to a web sites from different IPs with proxied queries emulation. 
+
+This library was used for Google/Yahoo/etc datamining tools creation and is worked really well.
+
